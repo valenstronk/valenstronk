@@ -1,4 +1,3 @@
-"cara memindahkan page satu ke page yang lain"
 .module_top, .module_bottom{
   visibility: hidden;
 }
